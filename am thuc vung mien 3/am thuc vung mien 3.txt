@@ -1,0 +1,223 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+</head>
+<body>
+<h1> Việt Nam Là Vùng Đất Có Đặc Sản Độc Đáo Đa Dạng.</h1>
+<p>Đất nước Việt Nam - một đất nước sở hữu vẻ đẹp tự nhiên tuyệt vời và ẩm thực đa dạng phong phú. Từ đỉnh núi cao nguyên Mộc Châu,đến bãi biển xanh mát của Đà Nẵng, và đến những cánh đồng lúa bạt ngàn ở Đồng Tháp,mỗi miền của Việt Nam mang theo một câu chuyện riêng,được kể qua hương vị đặc trưng của đặc sản vùng miền.</p>
+<img src="https://amthucvietnam365.vn/wp-content/uploads/2021/09/am-thuc-viet-nam3-2.jpg" alt="am thuc" width="500" height="350">
+<h2>63 tỉnh thành của Việt Nam đều đậm đà hương vị và nét đặc trưng riêng;</h2>
+<h3>Miền Bắc:</h3>
+<ul>
+<h4>1, Hà Nội: Phở Hà Nội</h4>
+<img src="https://sakos.vn/wp-content/uploads/2023/10/pho-ha-noi-09_1677399161.jpg" alt="am thuc 3 mien" width="300" height="200">
+<p>Phở Hà Nội dễ phải có từ cách đây gần trăm năm rồi. Đây là món ăn truyền thống lâu đời, mang hương vị riêng của đất Bắc.
+Trong lịch sử, phở xuất hiện từ thế kỷ 20, được cho là bắt nguồn từ khu vực phố cổ Hà Nội. Nguyên liệu chính của phở là gạo và thịt, với nước dùng nấu từ xương gà hoặc bò. Các gia vị như hành, gừng, đinh hương, và quế cũng đóng vai trò quan trọng trong việc tạo ra hương vị đặc trưng của món ăn này.
+Phở Hà Nội được coi là sự kết hợp tinh tế giữa hương vị của nước dùng thơm ngon, thịt mềm và bún mềm mại, cùng với rau sống và gia vị như húng, mùi, chanh, ớt cay. Sự phong phú của nguyên liệu và cách chế biến tinh tế đã tạo ra một hương vị độc đáo, làm nên danh tiếng của món phở Hà Nội.</p>
+<h4>2, Bắc Giang: Gỏi cá mè</h4>
+<img src="https://cdn.tgdd.vn/Files/2021/08/16/1375610/cach-lam-goi-ca-me-thom-ngon-la-mieng-khong-tanh-tai-nha-202108162043054733.jpg" alt="am thuc 3 mien" width="300" height="200">
+<p>Món ăn này được chế biến từ cá mè tươi ngon, kết hợp cùng các loại rau sống như rau muống, rau răm, rau mùi, bánh đa và các gia vị như tỏi, ớt, đường, muối, nước mắm... Từ những nguyên liệu đơn giản nhưng được chế biến một cách tinh tế, gỏi cá mè có vị ngọt tự nhiên của cá, hòa quyện với hương thơm của rau sống và gia vị, tạo nên một hương vị đặc trưng, hấp dẫn và độc đáo, là một phần không thể thiếu trong bữa ăn của người dân địa phương cũng như thu hút sự chú ý của du khách khi đến với Bắc Giang</p>
+<h4>3, Bắc Kạn: Cá nướng Ba Bể</h4>
+<img src="https://kenh14cdn.com/203336854389633024/2022/6/24/photo-7-1656035064691275212430.jpg" alt="amthuc" width="300" height="200">
+<p>Cá nướng Ba Bể - một biểu tượng ẩm thực của Bắc Kạn, kết hợp hương vị tươi ngon của cá nước ngọt từ hồ Ba Bể và hương thơm của gia vị, tạo nên một trải nghiệm ẩm thực đậm đà và độc đáo. Món ăn đơn giản nhưng đầy tinh tế, hứa hẹn làm say đắm thực khách với hương vị đặc trưng của vùng đất núi non miền Bắc.</p>
+<h4>4, Bắc Ninh: Xôi chim</h4>
+<img src="https://cdn.tgdd.vn/2021/10/CookDish/cach-nau-xoi-chim-bo-cau-don-gian-thom-ngon-kho-c-avt-1200x676-1.jpg" alt="amthuc" width="300" height="200">
+<p>Xôi chim Bắc Ninh là một biểu tượng ẩm thực của vùng đất này, nổi tiếng với hương vị ngọt ngào của gạo nếp và mùi thơm đặc trưng của dừa, tạo nên một trải nghiệm ẩm thực đậm đà và độc đáo cho thực khách. Món ăn truyền thống này thường được thưởng thức vào các dịp lễ tết và là điểm đến không thể bỏ qua khi ghé thăm Bắc Ninh.</p>
+<h4>5, Cao Bằng: Xôi trám</h4>
+<img src="https://cdn.tgdd.vn/2021/02/CookProduct/thumb1-1200x676-6.jpg" alt="amthuc" width="300" height="200">
+<p>Xôi trám Cao Bằng, một món đặc sản của vùng miền núi phía Bắc, quyến rũ với hương vị thơm ngon của gạo nếp, màu sắc đẹp mắt từ lá trám tự nhiên và vị ngọt dịu của đậu xanh, là điểm đến không thể bỏ qua khi thưởng thức ẩm thực vùng Cao Bằng</p>
+<h4>6, Điện Biên: Thịt trâu sấy khô</h4>
+<img src="https://putaleng.vn/wp-content/uploads/2021/10/6-thit-trau-say-kho-5-cach-an-dung-chuan-va-thom-ngon-nhat.jpg" alt="amthuc" width="300" height="200">
+<p>Thịt trâu sấy khô, một trong những đặc sản nổi tiếng của Điện Biên, ghi dấu ấn với hương vị đậm đà, thơm ngon và chứa đựng bí quyết ẩm thực của vùng miền núi phía Tây Bắc Việt Nam. Món ăn này không chỉ là biểu tượng của văn hóa ẩm thực độc đáo, mà còn là niềm tự hào của người dân Điện Biên, góp phần làm nên sức hút và độc đáo của du lịch vùng này.</p>
+<h4>7, Hà Giang: Cháo Ấu tẩu</h4>
+<img src="https://vcdn1-dulich.vnecdn.net/2023/07/15/chao5-1689376954.jpg?w=460&h=0&q=100&dpr=2&fit=crop&s=JXSH449aIOXxcjE_XCb6kw" width="300" height="200">
+<p>Cháo Ấu tẩu, một trong những đặc sản ẩm thực độc đáo của Hà Giang, là một trải nghiệm về hương vị đặc trưng và sự gắn kết với văn hóa dân tộc, đồng thời là nguồn cảm hứng không thể bỏ qua cho những ai muốn khám phá vùng đất núi đẹp mênh mông này.</p>
+<h4>8,Hà Nam: Cá kho làng Vũ Đại</h4>
+<img src="https://beptruong.edu.vn/wp-content/uploads/2020/11/cach-lam-ca-kho-lang-vu-dai.jpg" width="300" height="200">
+<p>Cá kho làng Vũ Đại, một biểu tượng ẩm thực của Hà Nam, là sự kết hợp tinh tế giữa cá tươi, gia vị đặc trưng và kỹ thuật chế biến truyền thống, tạo nên hương vị đậm đà và độc đáo, là điểm đến không thể bỏ qua cho những ai muốn khám phá ẩm thực đặc sắc của vùng đất này.</p>
+<h4>9,Hải Dương: Bún cá rô đồng</h4>
+<img src="https://cdn.tgdd.vn/Files/2020/05/24/1257901/cach-nau-bun-ca-ro-dong-thom-ngon-hap-dan-khong-bi-tanh-202202151029202883.jpg" width="300" height="200">
+<p>Bún cá rô đồng, một món ăn truyền thống của Hải Dương, là sự kết hợp hài hòa giữa bún mềm mại, nước dùng thơm ngon và miếng cá rô đồng tươi ngon, tạo nên một hương vị đặc trưng và bổ dưỡng, là điểm đến không thể bỏ qua cho những ai muốn thưởng thức ẩm thực đặc sắc của vùng đất này.</p>
+<h4>10,Hải Phòng: Bánh đa cua</h4>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaeL_lF9Cmdd8-x7YYnNYV1ORC0ECLxDVF-ITXuJU29g&s" width="300" height="200">
+<p>Bánh đa cua, một biểu tượng ẩm thực của Hải Phòng, là sự kết hợp tinh tế giữa lớp bánh đa giòn tan, hương vị đậm đà của cua tươi ngon và hương thơm của gia vị, tạo nên một trải nghiệm ẩm thực độc đáo và đặc biệt cho thực khách, đồng thời là một điểm đến không thể bỏ qua khi khám phá ẩm thực đa dạng của vùng đất Hải Phòng.</p>
+<h4>11, Hòa Bình: Thịt trâu lá lồm</h4>
+<img src="https://cdn3.ivivu.com/2022/12/th%E1%BB%8Bt-tr%C3%A2u-l%C3%A1-l%E1%BB%93m-ivivu.jpg" width="300" height="200">
+<p>Thịt trâu lá lồm, một món ăn đặc sản của Hòa Bình, thường được chế biến từ thịt trâu tươi ngon được cuốn trong lá lồm tự nhiên, tạo nên hương vị đậm đà và độc đáo, là điểm đến không thể bỏ qua cho những ai muốn khám phá ẩm thực truyền thống của vùng núi Hòa Bình.</p>
+<p>Món thịt trâu lá lồm không chỉ là biểu tượng của văn hóa ẩm thực độc đáo của người dân Hòa Bình mà còn là một trải nghiệm ẩm thực đặc biệt, kết hợp giữa hương vị tự nhiên của lá lồm và đặc sản độc đáo của thịt trâu, làm say lòng bất kỳ thực khách nào thưởng thức.</p>
+<h4>12, Hưng Yên: Bún thang lươn</h4>
+<img src="https://static.utop.vn/backupblog/richtexteditor/bun-thang-luon-pho-hien-4_1282008787_20220818.jpg" width="300" height="200">
+<p>Bún thang lươn, một biểu tượng ẩm thực của Hưng Yên, đậm đà hương vị của nước dùng thơm ngon, sợi bún mềm mại và lươn giòn tan, tạo nên một trải nghiệm ẩm thực độc đáo và bổ dưỡng, là điểm đến không thể bỏ qua khi khám phá ẩm thực đặc sắc của vùng đất này.</p>
+<p>Món ăn này không chỉ là biểu tượng văn hóa ẩm thực của Hưng Yên mà còn là một điểm nhấn đặc biệt trong thực đơn truyền thống, thu hút sự quan tâm của thực khách muốn thưởng thức hương vị độc đáo và đặc biệt của vùng miền.</p>
+<h4>13, Lai Châu: Lợn cắp nách 6 món</h4>
+<img src="https://cdn.media.dulich24.com.vn/bai-viet/11-dac-san-lai-chau-noi-tieng-gan-xa-an-mot-lan-nho-mai-55105240/11-dac-san-lai-chau-an-mot-lan-ban-se-nho-mai.jpg" width="300" height="200">
+<p>Lợn cắp nách - một trong những đặc sản nổi tiếng của Lai Châu, kết hợp sự sáng tạo trong ẩm thực dân dã của đồng bào dân tộc thiểu số vùng núi phía Tây Bắc, tạo nên bộ sáu món ăn độc đáo với hương vị đậm đà và sự đa dạng trong cách chế biến, là một trải nghiệm ẩm thực không thể bỏ qua khi đến với vùng đất này.</p>
+<h4>14, Lạng Sơn: Vịt quay lá móc mật</h4>
+<img src="https://images.foody.vn/res/g86/859608/prof/s576x330/foody-upload-api-foody-mobile-vit-nuong-jpg-181206141952.jpg" width="300" height="200">
+<p>Vịt quay lá móc mật, một biểu tượng ẩm thực của Lạng Sơn, kết hợp giữa vị thơm của vịt quay và hương vị đặc trưng từ lá móc mật, tạo nên một trải nghiệm ẩm thực độc đáo và hấp dẫn, là điểm đến không thể bỏ qua cho những ai muốn khám phá ẩm thực đặc sắc của vùng đất này.</p>
+<h4>15, Lào Cai: Thắng cố</h4>
+<img src="https://paoquan.vn/wp-content/uploads/2021/10/th%E1%BA%AFng-c%E1%BB%91-b%E1%BA%AFc-H%C3%A0-3.jpg" width="300" height="200">
+<p>Thắng cố, một món ăn truyền thống của Lào Cai, là sự kết hợp tinh tế giữa hương vị đậm đà của nước dùng và thịt bò, cùng với sự ngọt ngào và béo ngậy của mỡ lợn, tạo nên một trải nghiệm ẩm thực độc đáo và đặc biệt, là điểm đến không thể bỏ qua khi khám phá ẩm thực vùng núi Lào Cai.</p>
+<h4>16, Nam Định: nem nắm</h4>
+<img src="https://mia.vn/media/uploads/blog-du-lich/dac-san-nam-dinh-1-1691866105.jpg" width="300" height="200">
+<p>Nem nắm, một món ẩm thực truyền thống của Nam Định, ghi dấu ấn với sự đơn giản nhưng tinh tế trong cách chế biến và hương vị độc đáo từ thịt heo tươi, nước mắm và gia vị, làm say đắm thực khách với hương vị đậm đà và bổ dưỡng, đồng thời là một biểu tượng của văn hóa ẩm thực truyền thống của vùng đất này.</p>
+<h4>17, Ninh Bình: Dê tái chanh</h4>
+<img src="https://ninhbinhphat.com/wp-content/uploads/2019/03/22403912-802685973237652-189525391-o-500x332.jpg" width="300" height="200">
+<p>Dê tái chanh, một món ẩm thực đặc sản của Ninh Bình, gây ấn tượng bởi sự kết hợp độc đáo giữa thịt dê tươi ngon và hương vị chua ngọt của nước chanh, tạo nên một trải nghiệm ẩm thực độc đáo và hấp dẫn cho thực khách muốn khám phá văn hóa ẩm thực đặc trưng của vùng đất này.</p>
+<h4>18, Phú Thọ: Cơm nắm lá cọ</h4>
+<img src="https://thanhlamresort.vn/wp-content/uploads/2015/09/c%C6%A1m-n%E1%BA%AFm-l%C3%A1-c%E1%BB%8D-Thanh-L%C3%A2m-resort.jpg" width="300" height="200">
+<p>Cơm nắm lá cọ, một món ẩm thực truyền thống của Phú Thọ, là sự kết hợp tinh tế giữa hương vị đặc trưng của cơm nắm và hương thơm dịu nhẹ từ lá cọ tự nhiên, tạo nên một trải nghiệm ẩm thực độc đáo và gợi nhớ về văn hóa ẩm thực độc đáo của vùng đất này.</p>
+<h4>19, Quảng Ninh: Chả mực Hạ Long</h4>
+<img src="https://www.ahalong.com/uploads/Blog/AmThuc/ahalong-cha-muc-gia-tay-quang-ninh.jpg" width="300" height="200">
+<p>Chả mực Hạ Long, một món đặc sản của Quảng Ninh, nổi tiếng với sự hòa quyện giữa vị ngọt của mực biển và hương vị đặc trưng từ gia vị, tạo nên một trải nghiệm ẩm thực độc đáo và hấp dẫn, là điểm đến không thể bỏ qua khi thưởng thức ẩm thực vùng biển Quảng Ninh.</p>
+<h4>20, Sơn La: Ốc suối hấp</h4>
+<img src="https://tuyhoafoods.vn/wp-content/uploads/2024/03/image-155.jpeg" width="300" height="200">
+<p>Ốc suối hấp, một món đặc sản của Sơn La, thu hút với vị ngọt tự nhiên và độ tươi mát của ốc suối, kết hợp với hương vị dịu nhẹ từ các loại gia vị, tạo nên một trải nghiệm ẩm thực độc đáo và hấp dẫn, là điểm đến không thể bỏ qua khi khám phá ẩm thực của vùng đất Sơn La.</p>
+<h4>21, Thái Bình: Canh cá Quỳnh Côi</h4>
+<img src="https://sovhttdl.thaibinh.gov.vn/upload/80611/fck/files/765c920a072f2818c3aca543e7615865.jpg" width="300" height="200">
+<p>Canh cá Quỳnh Côi, một món ẩm thực đặc sản của Thái Bình, ghi dấu ấn với hương vị đậm đà của nước dùng từ cá Quỳnh Côi tươi ngon, kết hợp với sự tươi mát của rau cỏ và gia vị tự nhiên, tạo nên một trải nghiệm ẩm thực độc đáo và bổ dưỡng, là điểm đến không thể bỏ qua khi thưởng thức ẩm thực vùng đất Thái Bình.</p>
+<h4>22, Thái Nguyên: Tôm cuốn Thừa Lâm</h4>
+<img src="https://icdn.24h.com.vn/upload/2-2021/images/2021-05-28/1-1622191721-938-width600height541.jpg" width="300" height="200">
+<p>Tôm cuốn Thừa Lâm, một món ẩm thực đặc sản của Thái Nguyên, ấn tượng với sự kết hợp tinh tế giữa tôm tươi ngon và hương vị đặc trưng của Thừa Lâm, tạo nên một trải nghiệm ẩm thực độc đáo và hấp dẫn, là điểm đến không thể bỏ qua khi thưởng thức ẩm thực vùng đất Thái Nguyên.</p>
+<h4>23, Tuyên Quang: Bánh trứng kiến Lâm Bình</h4>
+<img src="https://tuyenquang.dcs.vn/Image/Large/2021325144822_13244.jpg" width="300" height="200">
+<p>Bánh trứng kiến Lâm Bình, một món đặc sản của Tuyên Quang, ghi dấu ấn với sự độc đáo từ việc kết hợp giữa trứng kiến và bột gạo, tạo nên hương vị đậm đà và bổ dưỡng, là điểm đến không thể bỏ qua khi thưởng thức ẩm thực vùng đất Tuyên Quang.</p>
+<h4>24, ,Vĩnh Phúc: Cá thính Lập Thạch</h4>
+<img src="https://moit.gov.vn/upload/2005517/fck/files/c___th__nh1_a2fd1.jpg" width="300" height="200">
+<p>Cá thính Lập Thạch, một đặc sản nổi tiếng của Vĩnh Phúc, ghi điểm với hương vị độc đáo từ cá thính và kỹ thuật chế biến tinh tế, tạo nên một trải nghiệm ẩm thực độc đáo và hấp dẫn, là điểm đến không thể bỏ qua khi thưởng thức ẩm thực vùng đất Vĩnh Phúc.</p>
+<h4>25, Yên Bái: Xôi nếp Tú Lệ</h4>
+<img src="https://todata.vn/view-1200/at_xoi-nep-tu-le-yen-bai-dac-san-tru-danh_1df8728d32ebdc98d689b123f1d5ed49.jpg" width="300" height="200">
+<p>Xôi nếp Tú Lệ, một món đặc sản của Yên Bái, là sự kết hợp tinh tế giữa hương vị ngọt ngào của gạo nếp và mùi thơm dễ chịu từ lá chuối tự nhiên, tạo nên một trải nghiệm ẩm thực độc đáo và đặc biệt, là điểm đến không thể bỏ qua khi thưởng thức ẩm thực vùng đất Yên Bái.</p>
+</ul>
+
+<h3>Miền Trung:</h3>
+<ul>
+<h4>26, Thanh Hóa: nem chua</h4>
+<img src="https://camerathanhhoa.org/wp-content/uploads/2021/06/nem-chua-sach-vth-thanh-hoa-1a1.jpg" idth="300" height="200">
+<p>Nem chua Thanh Hóa, một biểu tượng ẩm thực của vùng đất Thanh Hóa, ghi dấu ấn với hương vị đặc trưng từ thịt lợn tươi ngon, gia vị tự nhiên và quá trình ủ tự nhiên, tạo nên một trải nghiệm ẩm thực độc đáo và hấp dẫn, là món ăn không thể thiếu trong thực đơn của người dân và du khách khi ghé thăm Thanh Hóa.</p>
+<h4>27, Đà Nẵng: Bánh tráng cuốn thịt heo</h4>
+<img src="https://static.vinwonders.com/2022/12/banh-trang-cuon-thit-heo-top.jpg" width="300" height="200">
+<p>Bánh tráng cuốn thịt heo, một trong những món đặc sản ẩm thực của Đà Nẵng, kết hợp vị ngọt tự nhiên của thịt heo, vị giòn của bánh tráng và sự tươi mát của rau sống, tạo nên một trải nghiệm ẩm thực độc đáo và hấp dẫn, là điểm đến không thể bỏ qua khi thưởng thức ẩm thực vùng đất Đà Nẵng.</p>
+<h4>28, Đắk Lắk: Heo lai hấp nướng ống tre</h4>
+<img src="https://media.vov.vn/sites/default/files/styles/large_watermark/public/2021-04/heo_lai_hap_nuong_ong_tre.jpg" width="300" height="200">
+<p>Heo lai hấp nướng ống tre, một trong những món đặc sản của Đắk Lắk, ghi dấu ấn với sự kết hợp tinh tế giữa thịt heo lai tươi ngon và phong cách chế biến truyền thống của người dân vùng Tây Nguyên, tạo nên một trải nghiệm ẩm thực độc đáo và hấp dẫn, là điểm đến không thể bỏ qua khi khám phá ẩm thực đặc sắc của vùng đất này.</p>
+<h4>29, Đắk Nông : Cá Lăng nướng sông Sêrêpốk</h4>
+<img src="https://cungdi.net/uploads/travel/daknong/ca-lang-nuong-dak-nong-c.jpg" width="300" height="200">
+<p>Cá Lăng nướng sông Sêrêpốk, một biểu tượng ẩm thực của Đắk Nông, thu hút với hương vị đặc trưng và bổ dưỡng từ cá Lăng tự nhiên, kết hợp với phong cách chế biến truyền thống của người dân vùng Tây Nguyên, tạo nên một trải nghiệm ẩm thực độc đáo và hấp dẫn, là điểm đến không thể bỏ qua khi thưởng thức ẩm thực vùng đất Đắk Nông.</p>
+<h4>30, Gia Lai: Phở khô</h4>
+<img src="https://cdn3.ivivu.com/2022/09/den-pho-nui-pleiku-an-pho-kho-gia-lai-02.jpg" width="300" eight="200">
+<p>Phở khô, một món ăn đặc sản của Gia Lai, là sự kết hợp tinh tế giữa sợi phở mềm mại, hương vị đậm đà của nước dùng và gia vị, tạo nên một trải nghiệm ẩm thực độc đáo và đặc biệt, là điểm đến không thể bỏ qua khi thưởng thức ẩm thực của vùng đất Gia Lai.</p>
+<h4>31, Hà Tĩnh: Gỏi cá đục</h4>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTCpO-nQ1JkrTvLHVPv8SxQpdxkzVRkQhPq1ZE4eY_LQ&s" width="300" height="200">
+<p>Gỏi cá đục, một món ăn đặc sản của Hà Tĩnh, gây ấn tượng với hương vị tươi ngon của cá đục biển và sự hòa quyện của các loại rau sống, gia vị và nước mắm, tạo nên một trải nghiệm ẩm thực độc đáo và hấp dẫn, là một điểm sáng trong thực đơn ẩm thực của vùng đất Hà Tĩnh.</p>
+<h4>32, Khánh Hòa: Nem nướng Ninh Hòa</h4>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSB-pZFjHGD1OA3q89zsnYuaGHp7Vk2haw7lmV5lSnNOw&s" width="300" height="200">
+<p>Nem nướng Ninh Hòa, một đặc sản ẩm thực nổi tiếng của Khánh Hòa, ghi dấu ấn với vị thơm của nem nướng và hương vị đặc trưng từ gia vị, tạo nên một trải nghiệm ẩm thực độc đáo và hấp dẫn, là điểm đến không thể bỏ qua khi thưởng thức ẩm thực vùng biển tại Khánh Hòa.</p>
+<h4>33, Kon Tum: Gỏi lá</h4>
+<img src="https://mia.vn/media/uploads/blog-du-lich/kham-pha-mon-goi-la-kon-tum-cuc-doc-dao-cua-nguoi-dan-dia-phuong-01-1658874784.jpg" width="300" height="200">
+<p>Gỏi lá, một món ẩm thực đặc sản của Kon Tum, thu hút với sự độc đáo từ việc sử dụng lá và các loại rau cỏ tự nhiên kết hợp với gia vị và nước mắm, tạo nên một hương vị tươi mới và đặc biệt, làm say lòng thực khách muốn khám phá văn hóa ẩm thực độc đáo của vùng đất Kon Tum.</p>
+<h4>34, Lâm Đồng: Canh Atiso hầm giò heo</h4>
+<img src="https://atisodalat.vn/wp-content/uploads/2017/02/Gio-heo-ham-Atiso.jpg" width="300" height="200">
+<p>Canh Atiso hầm giò heo, một món ẩm thực đặc sản của Lâm Đồng, là sự kết hợp tinh tế giữa vị thanh mát của atiso, hương thơm đậm đà của giò heo và sự hòa quyện của gia vị, tạo nên một trải nghiệm ẩm thực độc đáo và hấp dẫn, là điểm đến không thể bỏ qua khi thưởng thức ẩm thực của vùng đất Lâm Đồng</p>
+<h4>35, Nghệ An: Súp lươn</h4>
+<img src="https://cdn-i.vtcnews.vn/resize/th/upload/2021/01/08/cach-nau-sup-luon-16390116.jpg" width="300" height="200">
+<p>Súp lươn, một trong những món ẩm thực đặc sản của Nghệ An, nổi tiếng với hương vị đậm đà và bổ dưỡng từ lươn biển, cùng sự hòa quyện của các loại rau củ và gia vị, tạo nên một trải nghiệm ẩm thực độc đáo và hấp dẫn, là điểm đến không thể bỏ qua khi thưởng thức ẩm thực vùng đất Nghệ An.</p>
+<h4>36, Ninh Thuận: Bánh căn</h4>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOgoqw3OVmB3865Lo4aTGb2IhLya3oTlB7bb4krAD0Lw&s" width="300" height="200">
+<p>Bánh căn, một món ẩm thực đặc sản của Ninh Thuận, gây ấn tượng với vị ngọt của bột gạo, hương thơm dễ chịu từ dầu mỡ và vị bùi béo của trứng, tạo nên một trải nghiệm ẩm thực độc đáo và thú vị, là một điểm sáng trong ẩm thực của vùng đất Ninh Thuận.</p>
+<h4>37, Phú Yên: Cá ngừ đại dương</h4>
+<img src="https://cangudaiduongphuyen.com/upload/product/cangunguyencon-5372.jpg" width="300" height="200">
+<p>Cá ngừ đại dương, một đặc sản biển của Phú Yên, nổi tiếng với hương vị đậm đà, thịt ngọt và giàu chất dinh dưỡng, làm say đắm lòng người thưởng thức và là một phần không thể thiếu trong ẩm thực của vùng đất Phú Yên.</p>
+<h4>38, Quảng Bình: Lẩu cá khoai</h4>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrhXwsD2-QBZNOZToMP6fS9fJqwawOsRh8mUUN_Y95Cg&s" width="300" height="200">
+<p>Lẩu cá khoai, một món ẩm thực đặc sản của Quảng Bình, gây ấn tượng với hương vị đậm đà từ nước lẩu được chế biến từ cá khoai và các loại rau củ, tạo nên một trải nghiệm ẩm thực độc đáo và hấp dẫn, là điểm đến không thể bỏ qua khi khám phá ẩm thực của vùng đất Quảng Bình.</p>
+<h4>39, Quảng Nam: Mì Quảng</h4>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyjhSeG0TwLYWrPzqpUFZlV8AiSYITjLnVyXl3eJhSzw&s" width="300" height="200">
+<p>Mì Quảng, một biểu tượng ẩm thực của Quảng Nam, gây ấn tượng với sự kết hợp độc đáo giữa mì mềm, thịt heo, tôm, thịt gà hoặc hải sản, được tẩm ướp gia vị và phủ đều lên mặt mì, tạo nên một hương vị đặc trưng và hấp dẫn, là một điểm sáng trong ẩm thực địa phương.</p>
+<h4>40, Quảng Ngãi: Món Don</h4>
+<img src="https://phongnhaexplorer.com/wp-content/uploads/2021/08/don-quang-ngai-d.jpg" width="300" height="200">
+<p>Món Don, một món ẩm thực đặc sản của Quảng Ngãi, nổi tiếng với sự phong phú và đa dạng trong cách chế biến từ các loại hải sản như tôm, cá, và mực, kết hợp với rau sống và gia vị tạo nên một trải nghiệm ẩm thực độc đáo và hấp dẫn, là một phần không thể thiếu trong thực đơn của vùng đất Quảng Ngãi.</p>
+<h4>41, Quảng Trị: Bún hến Mai Xá</h4>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7kSIiJMiMl_UySxP_J45Lrjb8XD0TMZCngtoXqF8FLQ&s" width="300" height="200">
+<p>Bún hến Mai Xá, một món ẩm thực đặc sản của Quảng Trị, ấn tượng với hương vị đặc trưng từ hến sạch và gia vị, kết hợp với vị ngọt của nước dùng và sự giòn của bún, tạo nên một trải nghiệm ẩm thực độc đáo và hấp dẫn, là điểm đến không thể bỏ qua khi thưởng thức ẩm thực vùng đất Quảng Trị.</p>
+<h4>42,Bình Định: Bánh hỏi lòng heo</h4>
+<img src="https://binhdinh.gov.vn/publish/thumbnail/2005340/1170x658xdefault/upload/2005340/20211202/2_d6941.jpg" width="300" height="200">
+<p>Bánh hỏi lòng heo, một món đặc sản của Bình Định, ấn tượng với sự kết hợp độc đáo giữa sợi bánh hỏi mềm mại và hương vị đậm đà từ lòng heo, tạo nên một trải nghiệm ẩm thực độc đáo và hấp dẫn, là một phần không thể thiếu trong thực đơn của vùng đất Bình Định.</p>
+<h4>43, Thừa Thiên Huế: Bún bò</h4>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzZBTHcJvXYitt--mFK82msMlHukxd6WP-PD4wkEMS1w&s" width="300" height="200">
+<p>Bún bò, một trong những biểu tượng ẩm thực của Thừa Thiên Huế, gây ấn tượng với hương vị đậm đà từ nước dùng hầm từ xương và thịt bò, kết hợp với sự giòn của bún và hương thơm từ các loại gia vị, tạo nên một trải nghiệm ẩm thực độc đáo và hấp dẫn, là một điểm sáng trong ẩm thực vùng đất Huế.</p>
+<h4>44, Bình Thuận: Lẩu thả</h4>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT95xFsK3kbXD7accOQXUzONfe_CpZRXOj78rfgpsPmYQ&s" width="300" height="200">
+<p>Lẩu thả, một món ẩm thực đặc sản của Bình Thuận, gây ấn tượng với hương vị đậm đà từ nước dùng được hầm từ xương và gia vị tự nhiên, kết hợp với sự tươi ngon của hải sản và rau cải, tạo nên một trải nghiệm ẩm thực độc đáo và hấp dẫn, là điểm đến không thể bỏ qua khi thưởng thức ẩm thực vùng đất Bình Thuận.</p>
+</ul>
+
+<h3>Miền Nam</h3>
+<ul>
+<h4>45,An Giang: Gà đốt lá Chúc</h4>
+<img src="https://cdn.tgdd.vn/Files/2021/08/23/1377175/cach-lam-ga-dot-la-chuc-o-thum-thom-ngon-chuan-vi-an-giang-202108231419459536.jpg" width="300" height="200">
+<p>Gà đốt lá Chúc, một món đặc sản của An Giang, nổi tiếng với hương vị đậm đà của gà nướng kết hợp với hương thơm dễ chịu từ lá chúc, tạo nên một trải nghiệm ẩm thực độc đáo và hấp dẫn, là một phần không thể thiếu trong thực đơn của vùng đất An Giang.</p>
+<h4>46,Bà Rịa – Vũng Tàu: Bánh khọt Vũng Tàu</h4>
+<img src="https://cdn.tgdd.vn/Files/2021/03/24/1337824/top-5-quan-banh-khot-ngon-nhat-vung-tau-ma-ban-nen-thu-202201061117494732.jpg" width="300" height="200">
+<p>Bánh khọt Vũng Tàu, một đặc sản của Bà Rịa – Vũng Tàu, nổi tiếng với vị giòn của vỏ bánh và hương vị ngọt của tôm, tạo nên một trải nghiệm ẩm thực độc đáo và hấp dẫn, là một trong những điểm đặc biệt thu hút du khách khi đến vùng đất này.</p>
+<h4>47, Bạc Liêu: Bún bò cay</h4>
+<img src="https://vcdn-vnexpress.vnecdn.net/2021/08/18/00a93d42-544e-4904-bb65-6f6a2a-3663-2364-1629264532.jpg" width="300" height="200">
+<p>Bún bò cay, một món ẩm thực đặc sản của Bạc Liêu, ghi dấu ấn với hương vị đậm đà và cay nồng từ nước dùng, sự giòn của bún và hương thơm từ thịt bò, tạo nên một trải nghiệm ẩm thực độc đáo và hấp dẫn, là một phần không thể thiếu trong thực đơn của vùng đất Bạc Liêu.</p>
+<h4>48, Bến Tre: Cơm trái dừa</h4>
+<img src="https://mia.vn/media/uploads/blog-du-lich/thuong-thuc-com-dua-ben-tre-mon-an-dan-da-voi-huong-vi-ngon-me-ly-01-1664718874.jpeg" width="300" height="200">
+<p>Cơm trái dừa, một món đặc sản của Bến Tre, ấn tượng với sự kết hợp tinh tế giữa vị ngọt của dừa và hương thơm đặc trưng của gạo, tạo nên một trải nghiệm ẩm thực độc đáo và bổ dưỡng, là một phần không thể thiếu trong thực đơn của vùng đất Bến Tre.</p>
+<h4>49, Bình Dương: Bánh bèo bì chợ Búng</h4>
+<img src="https://vcdn-dulich.vnecdn.net/2019/04/05/banhbeobiMyLien2-4608-1554452082.jpg" width="300" height="200">
+<p>Bánh bèo bì chợ Búng, một đặc sản của Bình Dương, nổi tiếng với vị ngon của bánh bèo mềm mịn kết hợp với hương vị đặc trưng của bì heo và gia vị, tạo nên một trải nghiệm ẩm thực độc đáo và hấp dẫn, là một điểm sáng trong ẩm thực của vùng đất Bình Dương.</p>
+<h4>50, Bình Phước: Gỏi trái điều</h4>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0gP742ugoDt7ch3jLF1UZ5KD7I7EPZIVBgu-rHXKuZA&s" width="300" height="200">
+<p>Gỏi trái điều, một món đặc sản của Bình Phước, gây ấn tượng với sự kết hợp tinh tế giữa vị ngọt của trái điều, sự tươi mát của rau sống và gia vị đậm đà, tạo nên một trải nghiệm ẩm thực độc đáo và hấp dẫn, là một phần không thể thiếu trong thực đơn của vùng đất Bình Phước.</p>
+<h4>51, Cà Mau: Lẩu mắm U Minh</h4>
+<img src="https://mia.vn/media/uploads/blog-du-lich/lau-mam-u-minh-vang-danh-dac-san-mien-dat-bun-xu-mui-01-1663704486.jpeg" width="300" height="200">
+<p>Lẩu mắm U Minh, một món ẩm thực đặc sản của Cà Mau, gây ấn tượng với hương vị đậm đà và độc đáo từ mắm cá U Minh kết hợp với đủ loại rau củ và hải sản tươi ngon, tạo nên một trải nghiệm ẩm thực độc đáo và hấp dẫn, là một phần không thể thiếu trong thực đơn của vùng đất Cà Mau.</p>
+<h4>52, Cần Thơ: Vịt nấu chao</h4>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTBT3fmMKxQHBPaQu87yw2cwWJFKdoAAztv2DAbsW-iA&s" width="300" height="200">
+<p>Vịt nấu chao, một món đặc sản của Cần Thơ, gây ấn tượng với sự kết hợp độc đáo giữa thịt vịt thơm ngon và sự ngọt của chao, kết hợp với gia vị đặc trưng, tạo nên một trải nghiệm ẩm thực độc đáo và hấp dẫn, là một phần không thể thiếu trong thực đơn của vùng đất Cần Thơ.</p>
+<h4>53, Đồng Nai: Gỏi bưởi</h4>
+<img src="https://tuyhoafoods.vn/wp-content/uploads/2024/03/image-235.png" width="300" height="200">
+<p>Gỏi bưởi, một món ăn đặc sản của Đồng Nai, nổi tiếng với sự kết hợp tinh tế giữa vị chua ngọt của bưởi, hương vị đậm đà của thịt gà hoặc tôm, và sự giòn của hành, ớt và các loại gia vị, tạo nên một trải nghiệm ẩm thực độc đáo và hấp dẫn, là một phần không thể thiếu trong thực đơn của vùng đất Đồng Nai.</p>
+<h4>54, Đồng Tháp: Lẩu chua cá linh bông điên điển</h4>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTz1uNz_wOJPMxxQEZMhj1I2nKfGHJvZH97VH8cB39vmQ&s" width="300" height="200">
+<p>Lẩu chua cá linh bông điển điển, một đặc sản của Đồng Tháp, nổi tiếng với hương vị chua ngọt đặc trưng từ nước lẩu chua, sự thơm ngon của cá linh bông và điển điển, kết hợp với sự tươi mát của rau sống và gia vị, tạo nên một trải nghiệm ẩm thực độc đáo và hấp dẫn, là một phần không thể thiếu trong thực đơn của vùng đất Đồng Tháp.</p>
+<h4>55, Hậu Giang: Cá lóc đồng nướng trui</h4>
+<img src="https://media-cdn-v2.laodong.vn/Storage/NewsPortal/2022/10/31/1111270/Cach-Nuong-Ca-Loc-Cu.jpg" width="300" height="200">
+<p>Cá lóc đồng nướng trui, một đặc sản của Hậu Giang, gây ấn tượng với vị ngọt tự nhiên và thịt thơm của cá lóc, được nướng trui kỹ lưỡng, tạo nên một trải nghiệm ẩm thực độc đáo và hấp dẫn, là một phần không thể thiếu trong thực đơn của vùng đất Hậu Giang.</p>
+<h4>56, HCM: Bò tơ Củ Chi</h4>
+<img src="https://channel.vcmedia.vn/thumb_w/600/E5dI0y3SoVrXIOTZqSfAuvUQ4vGwqv/Image/2014/05/03_4c800.jpg" width="300" height="200">
+<p>Bò tơ Củ Chi, một món đặc sản của thành phố Hồ Chí Minh, nổi tiếng với sự thơm ngon và ngọt tự nhiên của thịt bò tơ, được chăm sóc và nuôi dưỡng theo phương pháp truyền thống của vùng đất Củ Chi, tạo nên một trải nghiệm ẩm thực độc đáo và đặc biệt, là điểm sáng trong thực đơn của thành phố sôi động này.</p>
+<h4>57, Kiên Giang: Gỏi cá trích</h4>
+<img src="https://mia.vn/media/uploads/blog-du-lich/goi-ca-trich-va-huong-vi-dan-da-dam-chat-mien-bien-kien-giang-6-1666749524.jpg" width="300" height="200">
+<p>Gỏi cá trích, một món đặc sản của Kiên Giang, ấn tượng với hương vị tươi ngon và độc đáo từ cá trích, được kết hợp với rau sống và gia vị, tạo nên một trải nghiệm ẩm thực độc đáo và hấp dẫn, là một phần không thể thiếu trong thực đơn của vùng đất Kiên Giang.</p>
+<h4>58, Long An: Canh chua cá chốt</h4>
+<img src="https://cdn.tgdd.vn/Files/2021/08/13/1375044/cach-nau-canh-chua-ca-chot-bong-so-dua-gian-di-nhung-ngon-mien-ban-202201061133478334.jpg" width="300" height="200">
+<p>Canh chua cá chốt, một món đặc sản của Long An, gây ấn tượng với hương vị chua ngọt đặc trưng từ nước dùng canh chua, sự tươi ngon của cá chốt và hòa quyện của các loại rau củ, tạo nên một trải nghiệm ẩm thực độc đáo và hấp dẫn, là một phần không thể thiếu trong thực đơn của vùng đất Long An </p>
+<h4>59, Sóc Trăng: Bún nước lèo</h4>
+<img src="https://baocantho.com.vn/image/fckeditor/upload/2021/20210528/images/bun-nuoc-leo-soc-trang.jpg" width="300" height="200">
+<p>Bún nước lèo, một đặc sản của Sóc Trăng, gây ấn tượng với hương vị đậm đà từ nước lèo được hầm từ xương, sự giòn của bún và hương thơm của các loại gia vị, tạo nên một trải nghiệm ẩm thực độc đáo và hấp dẫn, là một phần không thể thiếu trong thực đơn của vùng đất Sóc Trăng.</p>
+<h4>60, Tây Ninh: Bê Lụi Sả</h4>
+<img src="https://mia.vn/media/uploads/blog-du-lich/be-nuong-lui-sa-tay-ninh-mon-ngon-kho-cuong-cua-nguoi-dan-nam-bo-04-1661258269.jpeg" width="300" height="200">
+<p>Bê lụi sả, một món đặc sản của Tây Ninh, ấn tượng với vị thơm của thịt bê và hương vị đặc trưng từ sả, được thấm đẫm qua quá trình chế biến tinh tế, tạo nên một trải nghiệm ẩm thực độc đáo và hấp dẫn, là một phần không thể thiếu trong thực đơn của vùng đất Tây Ninh.</p>
+<h4>61, Tiền Giang: Hủ tiếu Mỹ Tho</h4>
+<img src="https://vcdn-dulich.vnecdn.net/2022/11/25/z3905856253223-b9d384d0da9e37c-8230-9302-1669392966.jpg" width="300" height="200">
+<p>Hủ tiếu Mỹ Tho, một đặc sản của Tiền Giang, nổi tiếng với sự phong phú và đa dạng trong cách chế biến từ hủ tiếu và hương vị đặc trưng của nước dùng, thịt heo, tôm, thịt gà hoặc hải sản, tạo nên một trải nghiệm ẩm thực độc đáo và hấp dẫn, là một phần không thể thiếu trong thực đơn của vùng đất Tiền Giang.</p>
+<h4>62, Trà Vinh: Bún suông (đuông)</h4>
+<img src="https://cdn-i.vtcnews.vn/resize/th/upload/2022/06/23/bun-suong-homnaytuiangi-14191137.jpg" width="300" height="200">
+<p>Bún suông (đuông), một đặc sản của Trà Vinh, gây ấn tượng với sự độc đáo từ cách chế biến và hương vị đặc trưng của nước dùng, thịt bò, mực, và rau sống, tạo nên một trải nghiệm ẩm thực độc đáo và hấp dẫn, là một phần không thể thiếu trong thực đơn của vùng đất Trà Vinh.</p>
+<h4>63,Vĩnh Long: Ốc hấp hèm chuối xiêm</h4>
+<img src="https://topplus.vn/Userfiles/Upload/images/OC-BUOU-NAU-CHUOI-XANH.jpg" width="300" height="200">
+<p>Ốc hấp hèm chuối xiêm, một đặc sản của Vĩnh Long, nổi tiếng với hương vị đặc trưng của ốc hấp, được kết hợp với hèm và chuối xiêm, tạo nên một trải nghiệm ẩm thực độc đáo và hấp dẫn, là một phần không thể thiếu trong thực đơn của vùng đất Vĩnh Long.</p>
+</ul>
+
+<p>Khám phá văn hóa ẩm thực của Việt Nam là một hành trình đầy mê hoặc và phong phú, mỗi vùng miền đều mang trong mình những đặc sản và hương vị riêng biệt, tạo nên một bức tranh ẩm thực đa dạng và phong phú khó có thể quên. Từ miền Bắc tới miền Trung, từ miền Nam, đất nước này đã trở thành điểm đến lý tưởng cho những ai yêu thích ẩm thực và muốn khám phá những hương vị mới lạ.</p>
+
+<p>Tại miền Bắc, hãy cảm nhận vị ngon của phở Hà Nội thơm lừng, món bún chả Hà Nội hấp dẫn, hay những miếng bánh cuốn mỏng mịn của xứ Nghệ. Ở miền Trung, đắm mình trong hương vị đặc trưng của bún bò Huế, nem chua Thanh Hóa, hay món mì Quảng đậm đà. Còn tại miền Nam, không thể bỏ qua hương vị đặc biệt của bánh xèo Nam Bộ, cơm tấm Sài Gòn, hay món bún riêu cua Nha Trang.</p>
+
+<p>Tất cả những đặc sản và hương vị này đều là biểu tượng của sự đa dạng và phong phú của ẩm thực Việt Nam. Hãy cùng bắt đầu hành trình khám phá và thưởng thức những hương vị độc đáo từ 63 vùng miền đất nước này, để trải nghiệm không chỉ là ẩm thực mà còn là hành trình khám phá văn hóa và truyền thống của mỗi vùng miền.</p>
+
+</body>
+</html>
