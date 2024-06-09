@@ -1,8 +1,8 @@
 body{
     padding: 0;
     background-color: lightblue;
-    overflow-x: hidden;
-    margin: 0;  
+    overflow-x: hidden; 
+    margin: 0;
 }
 .header {
  font-family: Arial, sans-serif;
@@ -12,7 +12,8 @@ body{
   align-items: center;
   margin: 5;
   padding: 10;
-  background-color: #000000;
+  background-image: url(https://st5.depositphotos.com/35914836/63547/i/450/depositphotos_635479512-stock-photo-brown-wooden-wall-texture-background.jpg);
+  position: fixed;
 }
 
 .nav {
@@ -33,5 +34,29 @@ nav ul li a:hover {
 
 main {
     padding: 40px;
+}
+
+.promo-container {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            margin-top: 20px;
+}
+.promo {
+            margin: 10px;
+            border: 1px solid #ccc;
+            border-radius: 8px;
+            overflow: hidden;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+.promo img {
+            width: 300px;
+            height: auto;
+            display: block;
+}
+.promo-description {
+            padding: 10px;
+            background-color: #f9f9f9;
+            text-align: center;
 }
 
